@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+/* Styles pour les appareils mobiles */
+@media (max-width: 768px) {
+	/* Ajoutez ici vos styles pour les appareils mobiles */
+	body {
+	  font-size: 16px;
+	}
+	.top_left_cont h2 {
+	  font-size: 28px;
+	}
+	/* Ajoutez d'autres styles pour les appareils mobiles */
+  }
+  
+  /* Styles pour les tablettes */
+  @media (max-width: 992px) {
+	/* Ajoutez ici vos styles pour les tablettes */
+	body {
+	  font-size: 18px;
+	}
+	.top_left_cont h2 {
+	  font-size: 36px;
+	}
+	/* Ajoutez d'autres styles pour les tablettes */
+  }
+  
+
